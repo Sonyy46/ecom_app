@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38239925706",
+    "project_id": "cheekify-ce0c5",
+    "storage_bucket": "cheekify-ce0c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38239925706:android:e3616aef74e39bff0e0b33",
+        "android_client_info": {
+          "package_name": "com.example.ecom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA4G8sDL3UcstWivUHgxCLocIsfsO2js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
