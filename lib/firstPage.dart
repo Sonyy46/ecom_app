@@ -85,7 +85,7 @@ class _FirstpageState extends ConsumerState<Firstpage> {
                   // Image.asset('assets/images/logo.png', height: 60, width: 120),
                   const SizedBox(height: 16),
                   const Text(
-                    "Sign in to access the best of accessories fashion and electronics things",
+                    "Connect, chat, and stay close with your friends anytime.",
                     style: TextStyle(fontSize: 16),
                     textAlign: TextAlign.center,
                   ),
